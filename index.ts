@@ -1,4 +1,3 @@
-
 // Type Definitions
 type HttpMethod = 'GET' | 'POST';
 type UserRole = 'user' | 'admin';
